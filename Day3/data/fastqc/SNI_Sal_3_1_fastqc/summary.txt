@@ -1,0 +1,11 @@
+PASS	Basic Statistics	SNI_Sal_3_1.gz
+PASS	Per base sequence quality	SNI_Sal_3_1.gz
+PASS	Per tile sequence quality	SNI_Sal_3_1.gz
+PASS	Per sequence quality scores	SNI_Sal_3_1.gz
+FAIL	Per base sequence content	SNI_Sal_3_1.gz
+FAIL	Per sequence GC content	SNI_Sal_3_1.gz
+PASS	Per base N content	SNI_Sal_3_1.gz
+PASS	Sequence Length Distribution	SNI_Sal_3_1.gz
+WARN	Sequence Duplication Levels	SNI_Sal_3_1.gz
+WARN	Overrepresented sequences	SNI_Sal_3_1.gz
+FAIL	Adapter Content	SNI_Sal_3_1.gz

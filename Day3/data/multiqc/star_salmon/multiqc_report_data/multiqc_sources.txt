@@ -1,0 +1,321 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_oxy_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_Sal_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_Sal_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_Sal_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_oxy_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_oxy_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_oxy_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_Sal_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/Sham_Sal_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_Sal_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_Sal_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_Sal_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_oxy_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_oxy_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_oxy_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/picard/markduplicates/SNI_oxy_1.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_oxy_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_Sal_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/SNI_Sal_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/qualimap/Sham_oxy_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_oxy_2.read_distribution.txt
+RSeQC	read_distribution	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_Sal_4.read_distribution.txt
+RSeQC	read_distribution	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_Sal_2.read_distribution.txt
+RSeQC	read_distribution	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_oxy_4.read_distribution.txt
+RSeQC	read_distribution	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_Sal_1.read_distribution.txt
+RSeQC	read_distribution	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_oxy_4.read_distribution.txt
+RSeQC	read_distribution	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_Sal_4.read_distribution.txt
+RSeQC	read_distribution	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_Sal_3.read_distribution.txt
+RSeQC	read_distribution	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_oxy_1.read_distribution.txt
+RSeQC	read_distribution	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_Sal_1.read_distribution.txt
+RSeQC	read_distribution	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_oxy_1.read_distribution.txt
+RSeQC	read_distribution	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_Sal_3.read_distribution.txt
+RSeQC	read_distribution	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_oxy_3.read_distribution.txt
+RSeQC	read_distribution	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/Sham_oxy_3.read_distribution.txt
+RSeQC	read_distribution	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_Sal_2.read_distribution.txt
+RSeQC	read_distribution	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_distribution/SNI_oxy_2.read_distribution.txt
+RSeQC	inner_distance	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_Sal_1.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_Sal_1.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_Sal_3.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_oxy_2.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_oxy_3.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_oxy_4.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_Sal_4.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_Sal_3.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_oxy_1.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_Sal_2.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_oxy_1.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_oxy_4.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_Sal_4.inner_distance_freq.txt
+RSeQC	inner_distance	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/SNI_oxy_3.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_oxy_2.inner_distance_freq.txt
+RSeQC	inner_distance	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/inner_distance/Sham_Sal_2.inner_distance_freq.txt
+RSeQC	read_duplication	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_Sal_3.pos.DupRate.xls
+RSeQC	read_duplication	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_Sal_1.pos.DupRate.xls
+RSeQC	read_duplication	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_Sal_4.pos.DupRate.xls
+RSeQC	read_duplication	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_oxy_2.pos.DupRate.xls
+RSeQC	read_duplication	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_oxy_3.pos.DupRate.xls
+RSeQC	read_duplication	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_Sal_2.pos.DupRate.xls
+RSeQC	read_duplication	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_oxy_3.pos.DupRate.xls
+RSeQC	read_duplication	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_Sal_2.pos.DupRate.xls
+RSeQC	read_duplication	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_oxy_4.pos.DupRate.xls
+RSeQC	read_duplication	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_oxy_1.pos.DupRate.xls
+RSeQC	read_duplication	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_oxy_1.pos.DupRate.xls
+RSeQC	read_duplication	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_Sal_4.pos.DupRate.xls
+RSeQC	read_duplication	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_oxy_2.pos.DupRate.xls
+RSeQC	read_duplication	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/SNI_Sal_1.pos.DupRate.xls
+RSeQC	read_duplication	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_Sal_3.pos.DupRate.xls
+RSeQC	read_duplication	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/read_duplication/Sham_oxy_4.pos.DupRate.xls
+RSeQC	junction_annotation	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_Sal_2.junction_annotation.log
+RSeQC	junction_annotation	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_oxy_4.junction_annotation.log
+RSeQC	junction_annotation	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_Sal_1.junction_annotation.log
+RSeQC	junction_annotation	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_oxy_3.junction_annotation.log
+RSeQC	junction_annotation	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_Sal_4.junction_annotation.log
+RSeQC	junction_annotation	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_Sal_3.junction_annotation.log
+RSeQC	junction_annotation	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_oxy_1.junction_annotation.log
+RSeQC	junction_annotation	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_Sal_1.junction_annotation.log
+RSeQC	junction_annotation	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_oxy_1.junction_annotation.log
+RSeQC	junction_annotation	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_Sal_2.junction_annotation.log
+RSeQC	junction_annotation	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_Sal_3.junction_annotation.log
+RSeQC	junction_annotation	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_oxy_3.junction_annotation.log
+RSeQC	junction_annotation	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_Sal_4.junction_annotation.log
+RSeQC	junction_annotation	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/Sham_oxy_2.junction_annotation.log
+RSeQC	junction_annotation	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_oxy_4.junction_annotation.log
+RSeQC	junction_annotation	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_annotation/SNI_oxy_2.junction_annotation.log
+RSeQC	junction_saturation	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_oxy_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_Sal_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_Sal_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_Sal_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_oxy_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_oxy_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_oxy_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_oxy_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_Sal_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_oxy_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_oxy_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_Sal_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_Sal_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/SNI_oxy_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_Sal_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/junction_saturation/Sham_Sal_2.junctionSaturation_plot.r
+RSeQC	infer_experiment	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_oxy_4.infer_experiment.txt
+RSeQC	infer_experiment	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_oxy_3.infer_experiment.txt
+RSeQC	infer_experiment	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_Sal_4.infer_experiment.txt
+RSeQC	infer_experiment	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_Sal_3.infer_experiment.txt
+RSeQC	infer_experiment	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_Sal_2.infer_experiment.txt
+RSeQC	infer_experiment	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_oxy_2.infer_experiment.txt
+RSeQC	infer_experiment	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_oxy_4.infer_experiment.txt
+RSeQC	infer_experiment	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_oxy_3.infer_experiment.txt
+RSeQC	infer_experiment	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_Sal_2.infer_experiment.txt
+RSeQC	infer_experiment	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_oxy_2.infer_experiment.txt
+RSeQC	infer_experiment	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_oxy_1.infer_experiment.txt
+RSeQC	infer_experiment	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_Sal_1.infer_experiment.txt
+RSeQC	infer_experiment	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_Sal_3.infer_experiment.txt
+RSeQC	infer_experiment	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_oxy_1.infer_experiment.txt
+RSeQC	infer_experiment	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/SNI_Sal_4.infer_experiment.txt
+RSeQC	infer_experiment	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/infer_experiment/Sham_Sal_1.infer_experiment.txt
+RSeQC	bam_stat	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_oxy_1.bam_stat.txt
+RSeQC	bam_stat	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_oxy_1.bam_stat.txt
+RSeQC	bam_stat	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_Sal_1.bam_stat.txt
+RSeQC	bam_stat	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_Sal_1.bam_stat.txt
+RSeQC	bam_stat	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_Sal_2.bam_stat.txt
+RSeQC	bam_stat	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_oxy_3.bam_stat.txt
+RSeQC	bam_stat	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_oxy_4.bam_stat.txt
+RSeQC	bam_stat	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_oxy_4.bam_stat.txt
+RSeQC	bam_stat	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_Sal_3.bam_stat.txt
+RSeQC	bam_stat	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_Sal_4.bam_stat.txt
+RSeQC	bam_stat	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_Sal_3.bam_stat.txt
+RSeQC	bam_stat	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_Sal_4.bam_stat.txt
+RSeQC	bam_stat	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_oxy_3.bam_stat.txt
+RSeQC	bam_stat	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/SNI_oxy_2.bam_stat.txt
+RSeQC	bam_stat	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_oxy_2.bam_stat.txt
+RSeQC	bam_stat	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/rseqc/bam_stat/Sham_Sal_2.bam_stat.txt
+Samtools	stats	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_Sal_1.markdup.sorted.bam.stats
+Samtools	stats	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_Sal_4.markdup.sorted.bam.stats
+Samtools	stats	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_Sal_1.markdup.sorted.bam.stats
+Samtools	stats	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_Sal_4.markdup.sorted.bam.stats
+Samtools	stats	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_oxy_3.markdup.sorted.bam.stats
+Samtools	stats	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_oxy_2.markdup.sorted.bam.stats
+Samtools	stats	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_Sal_3.markdup.sorted.bam.stats
+Samtools	stats	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_oxy_3.markdup.sorted.bam.stats
+Samtools	stats	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_oxy_1.markdup.sorted.bam.stats
+Samtools	stats	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_oxy_4.markdup.sorted.bam.stats
+Samtools	stats	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_oxy_4.markdup.sorted.bam.stats
+Samtools	stats	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_Sal_2.markdup.sorted.bam.stats
+Samtools	stats	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_oxy_1.markdup.sorted.bam.stats
+Samtools	stats	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_Sal_3.markdup.sorted.bam.stats
+Samtools	stats	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/Sham_Sal_2.markdup.sorted.bam.stats
+Samtools	stats	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/stats/SNI_oxy_2.markdup.sorted.bam.stats
+Samtools	flagstat	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_Sal_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_Sal_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_oxy_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_Sal_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_oxy_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_Sal_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_oxy_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_oxy_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_Sal_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_oxy_3.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_Sal_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_oxy_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_Sal_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/SNI_oxy_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_oxy_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/flagstat/Sham_Sal_3.markdup.sorted.bam.flagstat
+Samtools	idxstats	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_Sal_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_oxy_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_Sal_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_oxy_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_Sal_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_oxy_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_oxy_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_oxy_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_oxy_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_Sal_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_Sal_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_oxy_4.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_Sal_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_oxy_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/Sham_Sal_2.markdup.sorted.bam.idxstats
+Samtools	idxstats	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/samtools/idxstats/SNI_Sal_4.markdup.sorted.bam.idxstats
+STAR	SummaryLog	Sham_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_Sal_2.Log.final.out
+STAR	SummaryLog	Sham_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_oxy_3.Log.final.out
+STAR	SummaryLog	SNI_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_Sal_1.Log.final.out
+STAR	SummaryLog	Sham_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_Sal_3.Log.final.out
+STAR	SummaryLog	Sham_Sal_1	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_Sal_1.Log.final.out
+STAR	SummaryLog	Sham_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_oxy_1.Log.final.out
+STAR	SummaryLog	SNI_Sal_3	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_Sal_3.Log.final.out
+STAR	SummaryLog	SNI_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_oxy_4.Log.final.out
+STAR	SummaryLog	Sham_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_Sal_4.Log.final.out
+STAR	SummaryLog	SNI_oxy_3	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_oxy_3.Log.final.out
+STAR	SummaryLog	Sham_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_oxy_2.Log.final.out
+STAR	SummaryLog	SNI_Sal_4	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_Sal_4.Log.final.out
+STAR	SummaryLog	SNI_Sal_2	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_Sal_2.Log.final.out
+STAR	SummaryLog	Sham_oxy_4	/scratch/12109805/nxf.HgsSArNZRN/star/Sham_oxy_4.Log.final.out
+STAR	SummaryLog	SNI_oxy_1	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_oxy_1.Log.final.out
+STAR	SummaryLog	SNI_oxy_2	/scratch/12109805/nxf.HgsSArNZRN/star/SNI_oxy_2.Log.final.out
+FastQC (raw)	all_sections	SNI_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_4_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_1_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_1_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_2_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_3_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_4_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_2_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_4_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_4_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_2_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_3_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_2_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_4_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_1_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_1_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_2_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_2_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_4_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_3_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_3_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_3_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_oxy_2_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_1_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_3_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_1_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_3_2_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_1_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_2_1_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_3_1_fastqc.zip
+FastQC (raw)	all_sections	Sham_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/Sham_Sal_4_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_Sal_1_2_fastqc.zip
+FastQC (raw)	all_sections	SNI_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/raw/SNI_oxy_4_2_fastqc.zip
+Cutadapt	all_sections	Sham_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_oxy_1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_4_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_2_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_oxy_4_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_3_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_1_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_1_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_3_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Sham_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/trim_log/Sham_Sal_2_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	SNI_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/trim_log/SNI_Sal_4_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	SNI_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_3_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_4_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_4_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_oxy_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_oxy_3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_Sal_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_Sal_4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_3_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_3_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_1_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_1_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Sham_Sal_2_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/Sham_Sal_2_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_1_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_1_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_2_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_2_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_4_1	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_4_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SNI_oxy_3_2	/scratch/12109805/nxf.HgsSArNZRN/fastqc/trim/SNI_oxy_3_2_val_2_fastqc.zip
